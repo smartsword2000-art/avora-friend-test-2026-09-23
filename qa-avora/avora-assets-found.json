@@ -1,0 +1,72 @@
+[
+  {
+    "file": "mark.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "wordmark-light.png",
+    "width": 900,
+    "height": 120
+  },
+  {
+    "file": "wordmark-dark.png",
+    "width": 900,
+    "height": 120
+  },
+  {
+    "file": "orb-on.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "orb-off.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "bg-obsidian-gold.jpg",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "file": "bg-charcoal-gold.jpg",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "file": "bg-ivory-marble.jpg",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "file": "bg-ivory-gold.jpg",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "file": "connect-obsidian.png",
+    "width": 1631,
+    "height": 1031
+  },
+  {
+    "file": "connect-ivory.png",
+    "width": 1631,
+    "height": 1031
+  },
+  {
+    "file": "app-premium-connected.png",
+    "width": 2567,
+    "height": 1446
+  },
+  {
+    "file": "app-mobile-hero-on.webp",
+    "width": 1440,
+    "height": 3200
+  },
+  {
+    "file": "app-mobile-master-on.png",
+    "width": 1440,
+    "height": 3200
+  }
+]
